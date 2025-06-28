@@ -49,6 +49,21 @@ The DICOM Viewer is designed to handle complex medical imaging data with support
   - Pillow (PIL) - Image manipulation
   - NumPy - Numerical computations
 - **Visualization**: Custom rendering engine
+
+  ## 📂 Project Structure
+```bash
+ dicom-medical-viewer/
+├── main.py                 # Main application entry point
+├── requirements.txt        # Python dependencies
+├── data/
+│   ├── input/             # Sample DICOM files
+│   └── output/            # Anonymized outputs
+├── src/
+│   ├── dicom_processor.py # DICOM handling logic
+│   ├── gui_components.py  # UI components
+│   └── image_utils.py     # Image processing utilities
+└── README.md             # This file
+   ```
 ## 📦 Installation
 ### Prerequisites
 Ensure you have Python 3.7 or higher installed on your system.
@@ -122,21 +137,6 @@ cd dicom-medical-viewer
 
 <img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task5_Dicom_Viewer/results/3d_tiles_view.png" alt="M2D Tiles" width="600">
 
-
-## 📂 Project Structure
-```bash
- dicom-medical-viewer/
-├── main.py                 # Main application entry point
-├── requirements.txt        # Python dependencies
-├── data/
-│   ├── input/             # Sample DICOM files
-│   └── output/            # Anonymized outputs
-├── src/
-│   ├── dicom_processor.py # DICOM handling logic
-│   ├── gui_components.py  # UI components
-│   └── image_utils.py     # Image processing utilities
-└── README.md             # This file
-   ```
 
 ## 🔮 Future Enhancements
 - GPU-accelerated rendering for faster performance.

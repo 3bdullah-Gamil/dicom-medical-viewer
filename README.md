@@ -53,15 +53,13 @@ The DICOM Viewer is designed to handle complex medical imaging data with support
   ## 📂 Project Structure
 ```bash
  dicom-medical-viewer/
-├── main.py                 # Main application entry point
 ├── requirements.txt        # Python dependencies
 ├── data/
 │   ├── input/             # Sample DICOM files
-│   └── output/            # Anonymized outputs
+│   └── output/            
 ├── src/
-│   ├── dicom_processor.py # DICOM handling logic
-│   ├── gui_components.py  # UI components
-│   └── image_utils.py     # Image processing utilities
+│   ├── main_viewer.py 
+│   └── 3d_tiles_viewer.py   
 └── README.md             # This file
    ```
 ## 📦 Installation

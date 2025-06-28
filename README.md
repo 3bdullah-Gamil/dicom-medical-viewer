@@ -2,7 +2,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task5_Dicom_Viewer/results/gui.png" alt="GUI Overview" width="700">
+<img src="https://raw.githubusercontent.com/3bdullah-Gamil/dicom-medical-viewer/main/results/gui.png" alt="GUI Overview" width="700">
 </p>
 
 ## 🔬 Overview
@@ -124,15 +124,15 @@ cd dicom-medical-viewer
 
 ### 2D Sequential Slice Display
 
-<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task5_Dicom_Viewer/results/image1.png" alt="2D Slices" width="600">
+<img src="https://raw.githubusercontent.com/3bdullah-Gamil/dicom-medical-viewer/main/results/image1.png" alt="2D Slices" width="600">
 
 ### M2D Tile Arrangement
 
-<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task5_Dicom_Viewer/results/m2d_cine.gif" alt="M2D Cine" width="600">
+<img src="https://raw.githubusercontent.com/3bdullah-Gamil/dicom-medical-viewer/main/results/m2d_cine.gif" alt="M2D Cine" width="600">
 
 ### 3D Volume Tiles
 
-<img src="https://raw.githubusercontent.com/abdullah-gamil05/ImageBasedAnatomy_Tasks/main/task5_Dicom_Viewer/results/3d_tiles_view.png" alt="M2D Tiles" width="600">
+<img src="https://raw.githubusercontent.com/3bdullah-Gamil/dicom-medical-viewer/main/results/3d_tiles_view.png" alt="M2D Tiles" width="600">
 
 
 ## 🔮 Future Enhancements

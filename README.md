@@ -54,9 +54,8 @@ The DICOM Viewer is designed to handle complex medical imaging data with support
 ```bash
  dicom-medical-viewer/
 ├── requirements.txt        # Python dependencies
-├── data/
-│   ├── input/             # Sample DICOM files
-│   └── output/            
+├── dataset/                 # Sample DICOM files            
+│── results/           
 ├── src/
 │   ├── main_viewer.py 
 │   └── 3d_tiles_viewer.py   
